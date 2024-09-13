@@ -12,6 +12,7 @@ namespace ConsoleApp12
     internal class Program
     {
         static void Main(string[] args)
+            //11111111111111111111111111111111//
         {
             ////1
             //string path = @"C:\Users\user\Desktop\New folder\mytest.txt";
@@ -24,8 +25,8 @@ namespace ConsoleApp12
             //using (StreamWriter sw = new StreamWriter(path))
             //{
             //    Console.WriteLine("qqq");
-            //}
-            //using (StreamReader sw = new StreamReader(path))
+            ////}
+            //us/ing (StreamReader sw = new StreamReader(path))
             //{
             //   string str = sw.ReadLine();
             //    Console.WriteLine(str);
